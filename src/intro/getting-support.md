@@ -6,7 +6,7 @@ options.
 ## Discord
 
 The SuperSlicer project runs a Discord server, to join you need to follow this
-invitation link: https://discord.gg/ygBBdRRwJY
+invitation link: https://discord.gg/4TVUG4VRzP 
 
 If you are new to Discord you may find this article quite helpful: 
 [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
